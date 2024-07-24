@@ -5,11 +5,11 @@
 
 
 h1 {
-  position: absolute;         //isme header 1 ku bich me position karre pixels dalke
+  position: absolute;         <!--isme header 1 ku bich me position karre pixels dalke-->
   left: 400px;
   top: 250px;
 }
-h1 {text-align: center;}       // isme center me dalre h1 ku
+h1 {text-align: center;}       <!--isme center me dalre h1 ku-->
 p {text-align: center;}
 div {text-align: center;} 
 </style>
